@@ -1,0 +1,3 @@
+grep command is used to search for information inside a file such as certain numbers or strings. Wildcard can be used (*) to tailor the search.
+e.g grep "word" mv
+grep -i - switch makes the grep command case insensitive
