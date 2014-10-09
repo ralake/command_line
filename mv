@@ -1,1 +1,0 @@
-mv command is used either to move a file or directory from one directory to another (e.g mv README.txt ~/Desktop) or to rename a file or directory (mv README.txt README2.txt)
